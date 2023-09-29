@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 1e409023-7e0c-1f1f-5d44-36060a10ad5c
+  name: Textbook Components
+  pageRef: /pages/textbook-contents-preface-etc
+  weight: 10
+- identifier: 03f431be-5ea1-6d28-29a0-d1d6224b6478
+  name: Part 1
+  pageRef: /pages/part-1
+  weight: 20
+- identifier: 293166d4-7eb3-8b0d-338f-324fe69a2d53
+  name: Part 2
+  pageRef: /pages/part-2
+  weight: 30
+- identifier: d2e7e4c4-836b-750d-53ff-9d86279564b1
+  name: Part 3
+  pageRef: /pages/part-3
+  weight: 40
+- identifier: 00687da4-8211-8b4f-d3f8-e1855d9eaedd
+  name: Part 4
+  pageRef: /pages/part-4
+  weight: 50
